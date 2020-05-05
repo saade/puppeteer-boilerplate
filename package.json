@@ -1,6 +1,8 @@
 {
   "dependencies": {
+    "chromium": "^2.1.2",
     "dotenv": "^8.2.0",
+    "puppeteer-core": "^3.0.2",
     "puppeteer-extra": "^3.1.9",
     "puppeteer-extra-plugin-stealth": "^2.4.9"
   }
