@@ -3,6 +3,7 @@
 const EventEmitter = require("events");
 const puppeteer = require("puppeteer-extra");
 
+const Util = require("./util/Util");
 const {
   URL,
   UserAgentWeb,
