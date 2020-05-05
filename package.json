@@ -1,4 +1,12 @@
 {
+  "name": "puppeteer-boilerplate",
+  "version": "0.0.1",
+  "description": "Puppeteer starter.",
+  "main": "main.js",
+  "repository": "https://github.com/SaadeMotion/puppeteer-boilerplate.git",
+  "author": "SaadeMotion <saade@outlook.com.br>",
+  "license": "MIT",
+  "private": true,
   "dependencies": {
     "chromium": "^2.1.2",
     "dotenv": "^8.2.0",
